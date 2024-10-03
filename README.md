@@ -1,4 +1,4 @@
-This Jupyter Notebook project contains a machine learning logistic regression (classification) model which predicts whether a type of food with some nutritional values given by the user is healthy or not.
+This Jupyter Notebook project uses machine learning logistic regression (classification) to predict whether a type of food with some nutritional values given by the user is healthy or not.
 
 The file has multiple boxes, which should be run in order in Jupyter Notebook(.ipynb file). Here you can find a tutorial on how to run a Jupyter Notebook project https://youtu.be/r8BXJdE9ChE?si=lSu5zIOUttVggt0r, but there are plenty other tutorials on Youtube. Note that you should first clone the repository on your machine.
 First, the user can see some simple examples and plots to interact with how the algorithms  work.
